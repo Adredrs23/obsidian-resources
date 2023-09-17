@@ -1,0 +1,1 @@
+https://www.singlestore.com/blog/database-sharding-vs-partitioning-whats-the-difference/
