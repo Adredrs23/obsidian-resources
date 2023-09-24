@@ -59,4 +59,3 @@ docker kill id
 ```zsh
 docker run -d --name container-name -p machine-port : container-port  image-name
 ```
-Testing 
