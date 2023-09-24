@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Spider Wall/Docker.md",
+                "file": "My Spider Wall/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Spider Wall/Docker.md",
+                "file": "My Spider Wall/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Spider Wall/Docker.md",
+                "file": "My Spider Wall/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Spider Wall/Docker.md"
+                "file": "My Spider Wall/Git.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-24 20.30.39.excalidraw.md",
     "My Spider Wall/Docker.md",
+    "My Spider Wall/Git.md",
+    "Excalidraw/Drawing 2023-09-24 20.30.39.excalidraw.md",
     "Excalidraw/Drawing 2023-09-24 20.30.07.excalidraw.md",
     "Excalidraw",
     "My Spider Wall/Transaction & ACID Properties.md",
@@ -198,7 +199,6 @@
     "Configurator/Configurator Endpoints.md",
     "Excalidraw/Configurator/Configurator High Level Architecture Diagram.md",
     "Excalidraw/Configurator",
-    "Excalidraw/Untitled.md",
     "Configurator/xls/All Configurator Stuff~65184.tmp",
     "Configurator/xls/~$All Configurator Stuff.xlsx",
     "Configurator/xls/All Configurator Stuff~D4687.tmp",
