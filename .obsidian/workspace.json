@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7539b4c09bfaaf3c",
+        "id": "1f6c7fd9c90a9622",
         "type": "tabs",
         "children": [
           {
-            "id": "8749d887995ab4d8",
+            "id": "4f4e4ebb19a82af9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Spider Wall/Docker.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Spider Wall/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Spider Wall/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Spider Wall/Docker.md"
+              }
             }
           },
           {
@@ -151,8 +159,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8749d887995ab4d8",
+  "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-24 20.30.39.excalidraw.md",
+    "My Spider Wall/Docker.md",
+    "Excalidraw/Drawing 2023-09-24 20.30.07.excalidraw.md",
+    "Excalidraw",
+    "My Spider Wall/Transaction & ACID Properties.md",
+    "My Spider Wall/Event Driven Architecture.md",
+    "My Spider Wall/My Spider Wall Index.md",
+    "My Spider Wall/Views, Functions and other stuff.md",
+    "My Spider Wall/Partitioning vs Sharding.md",
+    "My Spider Wall/Normalization.md",
+    "My Spider Wall/Nginx.md",
+    "My Spider Wall/Database Schemas.md",
+    "My Spider Wall/Database Transactions.md",
+    "My Spider Wall/Database Queries.md",
+    "My Spider Wall/images/nginx rewrite directive.png",
     "Backlog.md",
     "Angular Questions.md",
     "Alternate Parts Excel Understanding.png.md",
@@ -162,13 +185,10 @@
     "My Spider Wall/images/Pasted image 20230826104357.png",
     "My Spider Wall/images/Pasted image 20230826102431.png",
     "My Spider Wall/images/EDA Example 5 - ECST.png",
-    "My Spider Wall/My Spider Wall Index.md",
-    "My Spider Wall/Event Driven Architecture.md",
     "My Spider Wall/images/EDA Example 6 - CQRS.png",
     "My Spider Wall/images/EDA Example 4 - EN.png",
     "My Spider Wall/images/EDA Example 1.png",
     "My Spider Wall/images/EDA Example 3.png",
-    "My Spider Wall/images/EDA Example 2.png",
     "Excalidraw/Configurator/Configurator Diagrams.md",
     "Excalidraw/Configurator/Only 1 Barcode Pattern Per VC in both IPMS and MES.md",
     "Configurator/Daily Notes.md",
@@ -181,23 +201,11 @@
     "Excalidraw/Untitled.md",
     "Configurator/xls/All Configurator Stuff~65184.tmp",
     "Configurator/xls/~$All Configurator Stuff.xlsx",
-    "Beginners/Django Learning Path for Beginners.md",
     "Configurator/xls/All Configurator Stuff~D4687.tmp",
     "Configurator/xls/All Configurator Stuff~048F5.tmp",
     "Configurator/xls/All Configurator Stuff~93B84.tmp",
     "Configurator/xls/All Configurator Stuff~A7CB5.tmp",
     "Configurator/xls/All Configurator Stuff~25B90.tmp",
-    "Configurator/xls/All Configurator Stuff~1D21D.tmp",
-    "Configurator/Production Active Users list.md",
-    "Configurator/xls/All Configurator Stuff~7CFC1.tmp",
-    "~$All Configurator Stuff.xlsx.md",
-    "My Spider Wall/Views, Functions and other stuff.md",
-    "Configurator/Current Users on Prod.md",
-    "Tasks/Tasks Topics.md",
-    "Pasted image 20230826105640.png.md",
-    "My Spider Wall/Transaction & ACID Properties.md",
-    "My Spider Wall/Docker.md",
-    "My Spider Wall/Database Schemas.md",
-    "My Spider Wall/Database Transactions.md"
+    "Configurator/xls/All Configurator Stuff~1D21D.tmp"
   ]
 }

@@ -1,6 +1,6 @@
 Topics:
 
-1. [[Databases]]
+1. [[Database Queries]]
 2. [[Database Schemas]]
 3. [[Normalization]]
 4. [[Docker]]
@@ -10,4 +10,4 @@ Topics:
 8. [[Partitioning vs Sharding]]
 9. [[Database Transactions]]
 10. [[Event Driven Architecture]]
-11. 
+11. [[Nginx]]

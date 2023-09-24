@@ -1,10 +1,11 @@
 Resource - https://youtu.be/STKCRSUsyP0?si=SGVfyASI9Qm7JX0-
-## Event vs Command
+https://youtu.be/gOuAqRaDdHA?si=pVENx2QyKdbtM9w6
+## Event vs Command/Message
 	Event - Hey something happened
 	Command - Do something
 
-Event - when one don't care about the response from the relying downstream service
-Command - when one might care about the response from the relying downstream service
+Event - when one don't care about the response from the relying downstream service, immutable
+Command/Message - when one might care about the response from the relying downstream service, mutable??>
 
 ### Examples
 	Event - address changed
@@ -68,3 +69,18 @@ Separate components for updating the system and reading from the system
 Different views of the data are pretty common (e.g. a reporting database), 
 the important thing here is that the command model is never used for reading from outside
 ![[EDA Example 6 - CQRS.png]]
+
+### Loopholes & Key Values
+- Eventual consistency - can cause issues like delayed messages, people able to buy same last stock item or even worse last purchased order not showing up in orders list
+- Idempotent events - that means events should be uniquely identifiable by services
+- Checkpoints - services needs to manage checkpoints for events in the broker as a failsafe to begin with in case of service coming up after a temporary failure
+- Duplicate Processing of events - might happen that service process the same event processed after the last checkpoint created after coming up again as it begins from the checkpoint processing the events further down the list.
+- Service upgradations - service upgrades becomes far easier because of loose coupling
+- Bottlenecks slowdowns - service can fall behind and add delays
+- Scalable - more services can be easily be added to listen to events
+- Auditing and logging - clear picture of the system state can be maintained, and event logs can create the complete systems
+
+### Message Driven Architecture
+	EDA is an alternative to this.
+	In MDA, messages are passed around, specific to a particular service usually containing commands meant for the service, instructing it to do something.
+	Messages are not persisted like Events, and generally cleared up from the queue in order to process more messages.
