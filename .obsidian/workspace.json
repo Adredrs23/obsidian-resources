@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Spider Wall/Docker.md",
+                "file": "My Spider Wall/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Spider Wall/Docker.md",
+                "file": "My Spider Wall/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Spider Wall/Docker.md",
+                "file": "My Spider Wall/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Spider Wall/Docker.md"
+                "file": "My Spider Wall/Kubernetes.md"
               }
             }
           },
@@ -161,14 +161,16 @@
   },
   "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
-    "My Spider Wall/Event Driven Architecture.md",
+    "My Spider Wall/Jenkins.md",
     "My Spider Wall/Docker.md",
+    "My Spider Wall/My Spider Wall Index.md",
+    "My Spider Wall/Kubernetes.md",
+    "My Spider Wall/Event Driven Architecture.md",
     "My Spider Wall/Git.md",
     "Excalidraw/Drawing 2023-09-24 20.30.39.excalidraw.md",
     "Excalidraw/Drawing 2023-09-24 20.30.07.excalidraw.md",
     "Excalidraw",
     "My Spider Wall/Transaction & ACID Properties.md",
-    "My Spider Wall/My Spider Wall Index.md",
     "My Spider Wall/Views, Functions and other stuff.md",
     "My Spider Wall/Partitioning vs Sharding.md",
     "My Spider Wall/Normalization.md",
@@ -196,8 +198,6 @@
     "Configurator/images/Database Schema.md",
     "Configurator/Environments.md",
     "Configurator/Digital Twin Endpoints.md",
-    "Configurator/Configurator Endpoints.md",
-    "Excalidraw/Configurator/Configurator High Level Architecture Diagram.md",
     "Excalidraw/Configurator",
     "Configurator/xls/All Configurator Stuff~65184.tmp",
     "Configurator/xls/~$All Configurator Stuff.xlsx",
