@@ -159,8 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05cd9eb31bfeeef3",
+  "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
+    "My Spider Wall/images/NodePort Service Diagram.png",
+    "My Spider Wall/images/NodePort Service flow.png",
     "My Spider Wall/images/Kubernetes Cluster Diagram.png",
     "My Spider Wall/Jenkins.md",
     "My Spider Wall/Docker.md",
@@ -191,8 +193,6 @@
     "My Spider Wall/images/EDA Example 5 - ECST.png",
     "My Spider Wall/images/EDA Example 6 - CQRS.png",
     "My Spider Wall/images/EDA Example 4 - EN.png",
-    "My Spider Wall/images/EDA Example 1.png",
-    "My Spider Wall/images/EDA Example 3.png",
     "Excalidraw/Configurator/Configurator Diagrams.md",
     "Excalidraw/Configurator/Only 1 Barcode Pattern Per VC in both IPMS and MES.md",
     "Configurator/Daily Notes.md",
