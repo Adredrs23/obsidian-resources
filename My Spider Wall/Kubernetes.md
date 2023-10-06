@@ -83,10 +83,10 @@ spec:
 
 ```
 ### Services
-- Nodeport (Development only)
-- ClusterIp 
-- LoadBalancer (Prod)
-- Ingress (Prod)
+- Nodeport (Development only) (exposing pods to outer systems)
+- ClusterIp (Used for inter pods communication in a cluster)
+- LoadBalancer (Prod) (exposing pods to outer systems, along with Load balancing)
+- Ingress (Dev & Prod)
 
 ![[NodePort Service flow.png]]
 ![[NodePort Service Diagram.png]]
@@ -104,4 +104,38 @@ spec:
     - port: 3000
       targetPort: 3000 # the one that container exposes
       nodePort: 30007 # where local machine will access it
+```
+
+![[ClusterIp Diagram.png]]
+
+- ClusterIPs have internal DNS managed under a different namespace so it is present but invisible
+- Everytime a CIP service goes down, it comes up with a new IP
+- Hence, DNS mapping is required.
+- Use the service name to refer to the IPs and not the actual IP
+
+```yml
+# Example of ClusterIP
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: mongo-srv
+spec:
+  type: ClusterIP # is the default service if not specified
+  selector:
+    app: mongo # for this pod label
+  ports:
+    - port: 27017
+      targetPort: 27017
+
+# connect using mongo://mongo-srv/collection-name
+```
+
+### Namespaces
+```bash
+kubectl get namespaces
+
+kubectl get all -n namespace-name
+
+# All actions are applied to default namespaces if not defined
 ```
