@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Auto Repl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52c0c0bd723a36b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Auto Repl meet moms.md",
+                "file": "My Spider Wall/Amazon Web Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Auto Repl meet moms.md",
+                "file": "My Spider Wall/Amazon Web Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Auto Repl meet moms.md",
+                "file": "My Spider Wall/Amazon Web Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Auto Repl meet moms.md"
+                "file": "My Spider Wall/Amazon Web Services.md"
               }
             }
           },
@@ -184,20 +172,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52c0c0bd723a36b6",
+  "active": "05cd9eb31bfeeef3",
   "lastOpenFiles": [
+    "My Spider Wall/images/Amazon Route 53 High level Architecture.png",
+    "My Spider Wall/Nginx.md",
+    "My Spider Wall/Amazon Web Services.md",
+    "My Spider Wall/My Spider Wall Index.md",
+    "My Spider Wall/Lint Config for Django & Python.md",
+    "My Spider Wall/Kubernetes.md",
+    "My Spider Wall/Jenkins.md",
+    "My Spider Wall/Git.md",
+    "My Spider Wall/Event Driven Architecture.md",
+    "My Spider Wall/Docker.md",
+    "My Spider Wall/Database Transactions.md",
+    "My Spider Wall/Database Schemas.md",
+    "My Spider Wall/Database Queries.md",
     "Auto Repl.md",
     "Auto Repl meet moms.md",
-    "My Spider Wall/Kubernetes.md",
     "ClusterIp Diagram.png",
     "My Spider Wall/images/NodePort Service Diagram.png",
     "My Spider Wall/images/NodePort Service flow.png",
     "My Spider Wall/images/Kubernetes Cluster Diagram.png",
-    "My Spider Wall/Jenkins.md",
-    "My Spider Wall/Docker.md",
-    "My Spider Wall/My Spider Wall Index.md",
-    "My Spider Wall/Event Driven Architecture.md",
-    "My Spider Wall/Git.md",
     "Excalidraw/Drawing 2023-09-24 20.30.39.excalidraw.md",
     "Excalidraw/Drawing 2023-09-24 20.30.07.excalidraw.md",
     "Excalidraw",
@@ -205,10 +200,6 @@
     "My Spider Wall/Views, Functions and other stuff.md",
     "My Spider Wall/Partitioning vs Sharding.md",
     "My Spider Wall/Normalization.md",
-    "My Spider Wall/Nginx.md",
-    "My Spider Wall/Database Schemas.md",
-    "My Spider Wall/Database Transactions.md",
-    "My Spider Wall/Database Queries.md",
     "My Spider Wall/images/nginx rewrite directive.png",
     "Backlog.md",
     "Angular Questions.md",
@@ -220,9 +211,6 @@
     "My Spider Wall/images/Pasted image 20230826102431.png",
     "My Spider Wall/images/EDA Example 5 - ECST.png",
     "Excalidraw/Configurator/Configurator Diagrams.md",
-    "Excalidraw/Configurator/Only 1 Barcode Pattern Per VC in both IPMS and MES.md",
-    "Configurator/Daily Notes.md",
-    "Configurator/images/Database Schema.md",
     "Excalidraw/Configurator",
     "Configurator/xls/All Configurator Stuff~65184.tmp",
     "Configurator/xls/~$All Configurator Stuff.xlsx",
