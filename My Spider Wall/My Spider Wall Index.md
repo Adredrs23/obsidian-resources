@@ -12,4 +12,5 @@ Topics:
 10. [[Event Driven Architecture]]
 11. [[Nginx]]
 12. [[Kubernetes]]
-13. 
+13. [[Content Delivery Network]]
+14. [[Amazon Web Services]]
