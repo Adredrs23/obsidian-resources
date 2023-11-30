@@ -106,6 +106,31 @@ spec:
       nodePort: 30007 # where local machine will access it
 ```
 
+```yaml
+
+# Template snippet from Kubernetes docs
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-service
+spec:
+  type: NodePort
+  selector:
+    app.kubernetes.io/name: MyApp
+  ports:
+    - port: 80
+      # By default and for convenience, the `targetPort` is set to
+      # the same value as the `port` field.
+      targetPort: 80
+      # Optional field
+      # By default and for convenience, the Kubernetes control plane
+      # will allocate a port from a range (default: 30000-32767)
+      nodePort: 30007
+```
+```
+```
+
+
 ![[ClusterIp Diagram.png]]
 
 - ClusterIPs have internal DNS managed under a different namespace so it is present but invisible
