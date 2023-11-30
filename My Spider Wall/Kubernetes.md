@@ -164,3 +164,6 @@ kubectl get all -n namespace-name
 
 # All actions are applied to default namespaces if not defined
 ```
+
+DaemonSet
+- DaemonSet is **a Kubernetes feature that lets you run a Kubernetes pod on all cluster nodes that meet certain criteria**. Every time a new node is added to a cluster, the pod is added to it, and when a node is removed from the cluster, the pod is removed.
