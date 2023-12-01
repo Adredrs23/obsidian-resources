@@ -165,5 +165,69 @@ kubectl get all -n namespace-name
 # All actions are applied to default namespaces if not defined
 ```
 
-DaemonSet
+### DaemonSet
 - DaemonSet is **a Kubernetes feature that lets you run a Kubernetes pod on all cluster nodes that meet certain criteria**. Every time a new node is added to a cluster, the pod is added to it, and when a node is removed from the cluster, the pod is removed.
+
+### ConfigMap and Secret
+Docs - https://kubernetes.io/docs/concepts/configuration/configmap/#:~:text=A%20ConfigMap%20is%20an%20API%20object%20that%20lets%20you%20store,and%20the%20binaryData%20are%20optional.
+- used for external configuration of individual values
+- ConfigMap and Secrets are used to store important mappings and secret credentials which can be used as a config file for a particular pod or many pods
+- Can be passed as key : value pairs or files that can be mounted
+  https://www.youtube.com/watch?v=FAnQTgr04mU
+```yaml
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mongodb-configmap
+data:
+  db_host: mongodb-service # Will be used as a config for pods in environments
+ 
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mongodb-secret
+type: Opaque
+data:
+  username: dXNlcm5hbWU= # Will be used as a config for pods in environments
+  password: cGFzc3dvcmQ= # Will be used as a config for pods in environments
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mongo-express
+  labels:
+    app: mongo-express
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mongo-express
+  template:
+    metadata:
+      labels:
+        app: mongo-express
+    spec:
+      containers:
+      - name: mongo-express
+        image: mongo-express
+        ports:
+        - containerPort: 8081
+        env:
+        - name: ME_CONFIG_MONGODB_ADMINUSERNAME
+          valueFrom:
+            secretKeyRef:
+              name: mongodb-secret
+              key: username # used here
+        - name: ME_CONFIG_MONGODB_ADMINPASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: mongodb-secret
+              key: password # used here
+        - name: ME_CONFIG_MONGODB_SERVER 
+          valueFrom: 
+            configMapKeyRef:
+              name: mongodb-configmap
+              key: db_host # used here
+```
