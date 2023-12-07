@@ -14,3 +14,12 @@
 	https://sematext.com/guides/kubernetes-logging/
 - App logging with K8s
 	https://medium.com/@joatmon08/application-logging-in-kubernetes-with-fluentd-4556f1573672
+
+const a = {"a": 1, "b": 2,}
+const b = {"b": 2, "c": 3}
+
+
+a = []
+for (0,1,2,3){
+a.pus(i+1)
+}

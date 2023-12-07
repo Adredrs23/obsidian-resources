@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3430aceaa9e8cb91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Auto Replenishment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Auto Replenishment.md",
+                "file": "My Spider Wall/Fluentd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Auto Replenishment.md",
+                "file": "My Spider Wall/Fluentd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Auto Replenishment.md"
+                "file": "My Spider Wall/Fluentd.md"
               }
             }
           },
@@ -172,8 +159,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3430aceaa9e8cb91",
+  "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
+    "Auto Repl.md",
     "Auto Replenishment.md",
     "My Spider Wall/Fluentd.md",
     "My Spider Wall/Kubernetes.md",
@@ -189,7 +177,6 @@
     "Excalidraw/Drawing 2023-11-02 10.12.46.excalidraw.md",
     "My Spider Wall/images/ClusterIp Diagram.png",
     "Backlog.md",
-    "Auto Repl.md",
     "Angular Questions.md",
     "My Spider Wall/Transaction & ACID Properties.md",
     "My Spider Wall/Partitioning vs Sharding.md",
