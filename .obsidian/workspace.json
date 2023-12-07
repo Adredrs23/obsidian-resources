@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3430aceaa9e8cb91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auto Replenishment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Spider Wall/Fluentd.md",
+                "file": "Auto Replenishment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Spider Wall/Fluentd.md",
+                "file": "Auto Replenishment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Spider Wall/Fluentd.md"
+                "file": "Auto Replenishment.md"
               }
             }
           },
@@ -159,10 +172,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f4e4ebb19a82af9",
+  "active": "3430aceaa9e8cb91",
   "lastOpenFiles": [
-    "My Spider Wall/Kubernetes.md",
+    "Auto Replenishment.md",
     "My Spider Wall/Fluentd.md",
+    "My Spider Wall/Kubernetes.md",
     "My Spider Wall/Docker.md",
     "My Spider Wall/HTTPS.md",
     "Beginners/Other Important Terms.md",
@@ -187,7 +201,6 @@
     "My Spider Wall/Lint Config for Django & Python.md",
     "My Spider Wall/Jenkins.md",
     "My Spider Wall/Event Driven Architecture.md",
-    "My Spider Wall/Database Transactions.md",
     "My Spider Wall/images/Amazon Route 53 High level Architecture.png",
     "My Spider Wall/images/NodePort Service Diagram.png",
     "My Spider Wall/images/NodePort Service flow.png",
