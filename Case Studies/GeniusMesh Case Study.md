@@ -49,7 +49,7 @@ Other benefits:
 - Creating professional presence of students and institutions
 - Reducing turn around time while recruiting
 - Grabbing contracts with organizations and executives to provide seamless recruitment processes
-- High performance and usability helped exposure to **distinguishable** user base
+- High performance and usability helped exposure to distinguished user base
 
 ### Technology Stack
 1. Web: Ejs, Node JS, Mongo DB and Python
