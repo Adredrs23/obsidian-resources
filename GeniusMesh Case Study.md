@@ -38,5 +38,5 @@ Following our standard procedure, our technical analysts assessed the situation 
 
 
 ### Business Impact
-- Client was able to contracts with organization and executives by giving them opportunity yo hire the needed people
+- Client was able to contracts with organization and executives by giving them opportunity yo hire the needed people.
 
