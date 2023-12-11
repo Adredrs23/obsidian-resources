@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53411afb0fd20098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GeniusMesh Case Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Spider Wall/Fluentd.md",
+                "file": "GeniusMesh Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Spider Wall/Fluentd.md",
+                "file": "GeniusMesh Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Spider Wall/Fluentd.md"
+                "file": "GeniusMesh Case Study.md"
               }
             }
           },
@@ -159,12 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f4e4ebb19a82af9",
+  "active": "53411afb0fd20098",
   "lastOpenFiles": [
+    "My Spider Wall/Fluentd.md",
+    "GeniusMesh Case Study.md",
     "Pasted image 20231208184734.png",
     "Auto Repl.md",
     "Auto Replenishment.md",
-    "My Spider Wall/Fluentd.md",
     "My Spider Wall/Kubernetes.md",
     "My Spider Wall/Docker.md",
     "My Spider Wall/HTTPS.md",
@@ -197,7 +211,6 @@
     "My Spider Wall/images/Pasted image 20230826105640.png",
     "My Spider Wall/images/Pasted image 20230826105145.png",
     "My Spider Wall/images/Pasted image 20230826104357.png",
-    "My Spider Wall/images/Pasted image 20230826102431.png",
     "Excalidraw/Configurator",
     "Configurator/xls/All Configurator Stuff~65184.tmp",
     "Configurator/xls/~$All Configurator Stuff.xlsx",
