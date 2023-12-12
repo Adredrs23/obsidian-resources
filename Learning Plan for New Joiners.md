@@ -1,34 +1,107 @@
-Levels based test  (6 months)
-1 - 2 months Basics & Intermediate
-2 - 2 months
-3 - 2 months
+# Overview
+- 6 Months timeframe
+- Levels based certifications
+- Split into 2 months each
+- Milestone projects and Quizzes to assess progress
+- Feedback meets after qualifying every level
+- Interaction, stress reliever, fun & games sessions
+### Benefits
+For Sankey
+- Help in recruiting the right candidates
+- Filter out candidates ahead of time
+- Help find culture fit grads
+For Graduates
+- Meet educational internship criteria
+- Certificates for being industry ready
 
-OOPS
-Git
-DB Concepts
-HTML - Basics | Intermediate | Advance
-CSS - Basics | Intermediate | Advance
-JS - Basics | Intermediate | Advance
-CSS Libraries - Basic | Advance
-JS Libraries - Basic | Advance
-
-
-## Basics
-1st month
-1 week OOPS & GIT
-2.5 weeks for HTML | CSS | JS 
-1.5 week - milestone & quiz  (Parallel)
-
-2nd month
-CSS and JS libraries 
-CSS
-- Bootstrap
-- Materialize
-- Tailwind
-JS
-- Axios 
-- MomentJs
-
-Project Standards and clean code theory
+### Topics Overview
+1. OOPS
+2. Git 
+3. DB Concepts
+4. HTML - Basics | Intermediate | Advance
+5. CSS - Basics | Intermediate | Advance
+6. JS - Basics | Intermediate | Advance
+7. CSS Libraries - Intermediate | Advance
+8. JS Libraries - Intermediate | Advance
 
 
+## Level 1 - Basics
+Month 1
+	Introduction to Editors & IDEs
+		- Sublime text
+		- Atom
+		- VSCode
+		- Notepad++
+		- Nano | VIM
+		- IntelliJ
+		- PyCharm
+		- WebStorm
+		- Visual Studio
+	Introduction to Shell commands
+		- bash
+		- psh
+		- cmd
+		- zsh
+	Introduction to Git Concepts
+		https://education.github.com/git-cheat-sheet-education.pdf
+		- Basic commands
+		- collaborative work
+		- Branch strategies
+		- PR and Merges
+		- Resolving conflicts
+	Introduction to OOPS Concept
+		- Abstraction
+		- Polymorphism
+		- Inheritance
+		- Encapsulation
+	Introduction to DB Concepts
+		- Relational & Non-Relational DB
+		- SQL and NOSQL
+		- SQL terminologies - cardinality, normalization, etc.
+		- Schema Design
+		- Indexing, Aggregate functions, Views, Stored Procedures
+	OOPS & DB Concepts - 1 week
+	HTML | CSS | JS - 2.5 weeks
+	Milestone Project & quiz  (Parallel) - 1.5 week 
+
+Month 2
+	Project Standards and clean code theory
+	Introduction to package managers
+		- NPM
+		- Yarn
+		- PNPM
+		- PIP
+		- Maven
+		- Gradle
+	Introduction to Configuration files and syntax
+		- Yaml
+		- JSON
+		- XML
+		- md
+	Introduction to Configuration tools
+		- Webpack
+		- Rollup
+		- Vite
+	Introduction to CSS and JS libraries
+		CSS and JS libraries 
+			CSS
+				- Bootstrap
+				- Materialize
+				- Tailwind
+			JS
+				- Axios 
+				- MomentJs
+				- Lodash
+				- JQuery
+				- Nodemon
+				- Concurrently
+				- http-server
+	Introduction to Frameworks
+	- React
+	- Angular
+	- Django
+	- Spring & SpringBoot
+	- .Net
+	- React Native
+	- 
+### Level 2 

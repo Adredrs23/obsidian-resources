@@ -18,30 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "53411afb0fd20098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beginners/CSS Learning Path for Beginners.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91ff7c94f1995838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beginners/HTML Learning Path For Beginners.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -185,13 +161,13 @@
   },
   "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
+    "Case Studies/GeniusMesh Case Study.md",
+    "Learning Plan for New Joiners.md",
     "My Spider Wall/Fluentd.md",
     "Beginners/CSS Learning Path for Beginners.md",
     "Beginners/HTML Learning Path For Beginners.md",
     "Beginners/Django Learning Path for Beginners.md",
     "Beginners/Other Important Terms.md",
-    "Learning Plan for New Joiners.md",
-    "Case Studies/GeniusMesh Case Study.md",
     "Case Studies",
     "Pasted image 20231208184734.png",
     "Auto Repl.md",

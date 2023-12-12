@@ -63,3 +63,9 @@ QUESTIONS to ask:
 5. MAU or metrics for Business Impacts
 6. Architecture of the solution
 7. Flow Diagram (if existing)
+8. AI integration for resume scanner
+9. Career graph?? 
+10. Zoom meet integration
+11. Employee career insights
+12. Chat feature
+13. AWS?
