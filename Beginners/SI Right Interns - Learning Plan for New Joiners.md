@@ -60,6 +60,12 @@ Month 1
 		- SQL terminologies - cardinality, normalization, etc.
 		- Schema Design
 		- Indexing, Aggregate functions, Views, Stored Procedures
+	Introduction to HTML
+		- [[HTML Learning Path For Beginners]]
+	Introduction to CSS
+		- [[CSS Learning Path for Beginners]]
+	Introduction to JS
+		- [[JS Learning Path for Beginners]]
 	OOPS & DB Concepts - 1 week
 	HTML | CSS | JS - 2.5 weeks
 	Milestone Project & quiz  (Parallel) - 1.5 week 
@@ -97,11 +103,24 @@ Month 2
 				- Concurrently
 				- http-server
 	Introduction to Frameworks
-	- React
-	- Angular
-	- Django
-	- Spring & SpringBoot
-	- .Net
-	- React Native
-	- 
-### Level 2 
+		- React
+		- Angular
+		- Django
+		- Spring & Spring Boot
+		- DotNet
+		- React Native
+	Setting up the development environment
+### Level 2
+
+Databases
+	- Introduction to Databases Schema
+	- Schema Design
+	- Normalization
+	- DML, DDL, DTL
+	- Constraints
+	- clauses
+	- Joins
+	- Indexes
+	- Stored Procedures
+	- Views
+
