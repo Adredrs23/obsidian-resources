@@ -110,17 +110,18 @@ Month 2
 		- DotNet
 		- React Native
 	Setting up the development environment
+	Databases
+		- Introduction to Databases Schema
+		- Schema Design
+		- Normalization
+		- DML, DDL, DTL
+		- Constraints
+		- Clauses
+		- Joins
+		- Indexes
+		- Stored Procedures
+		- Views
 ### Level 2
 
-Databases
-	- Introduction to Databases Schema
-	- Schema Design
-	- Normalization
-	- DML, DDL, DTL
-	- Constraints
-	- clauses
-	- Joins
-	- Indexes
-	- Stored Procedures
-	- Views
+
 
