@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
+                "file": "Beginners/Java Learning Path for Beginners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
+                "file": "Beginners/Java Learning Path for Beginners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
+                "file": "Beginners/Java Learning Path for Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginners/SI Right Interns - Learning Plan for New Joiners.md"
+                "file": "Beginners/Java Learning Path for Beginners.md"
               }
             }
           },
@@ -161,14 +161,14 @@
   },
   "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
-    "Beginners/JS Learning Path for Beginners.md",
-    "Beginners/Java Learning Path for Beginners.md",
-    "Beginners/HTML Learning Path For Beginners.md",
-    "Beginners/Django Learning Path for Beginners.md",
-    "Beginners/CSS Learning Path for Beginners.md",
-    "Case Studies/GeniusMesh Case Study.md",
     "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
     "Beginners/Other Important Terms.md",
+    "Beginners/JS Learning Path for Beginners.md",
+    "Beginners/CSS Learning Path for Beginners.md",
+    "Beginners/HTML Learning Path For Beginners.md",
+    "Beginners/Java Learning Path for Beginners.md",
+    "Beginners/Django Learning Path for Beginners.md",
+    "Case Studies/GeniusMesh Case Study.md",
     "My Spider Wall/Fluentd.md",
     "Case Studies",
     "Pasted image 20231208184734.png",
