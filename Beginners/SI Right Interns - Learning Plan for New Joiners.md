@@ -154,6 +154,8 @@ Month 3
 		- Drizzle
 		- Prisma
 		- Entity
+		- TypeORM
+		- Sequelize
 	Introduction to MongoDB
 		- Mongo basics
 		- Mongoose basics
