@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginners/Python.md",
+                "file": "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginners/Python.md",
+                "file": "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginners/Python.md",
+                "file": "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginners/Python.md"
+                "file": "Beginners/SI Right Interns - Learning Plan for New Joiners.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
-    "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
     "Beginners/Python.md",
+    "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
     "Beginners/Java Learning Path for Beginners.md",
     "Beginners/Other Important Terms.md",
     "Beginners/JS Learning Path for Beginners.md",
