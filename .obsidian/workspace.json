@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "844ea17a23f21378",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +146,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -159,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f4e4ebb19a82af9",
+  "active": "844ea17a23f21378",
   "lastOpenFiles": [
     "Beginners/Python.md",
     "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
