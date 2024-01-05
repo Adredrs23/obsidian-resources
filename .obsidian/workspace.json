@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "844ea17a23f21378",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "844ea17a23f21378",
+  "active": "4f4e4ebb19a82af9",
   "lastOpenFiles": [
     "Beginners/Python.md",
     "Beginners/SI Right Interns - Learning Plan for New Joiners.md",

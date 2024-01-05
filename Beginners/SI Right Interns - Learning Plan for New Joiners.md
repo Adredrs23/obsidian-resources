@@ -211,3 +211,25 @@ Month 6
 	Choose a CICD
 	Choose a Deployment service
 	Final Project 4
+
+
+### Milestone Project 1
+#### Question 1
+Create a DB Schema for Hospital Management System.
+Define the schema along with the constraints indicating the relationships between the entities.
+Be sure to make use of the database concepts like Views, Relationships, Indexing, Stored Procedure and triggers.
+Indicate the Normalization form being used in the schema defined and why you chose to keep it that particular normal form.
+Once your schema is well defined, choose any Relational Database system (MySQL, MariaDB, etc) and practically implement the schema so that you are able to perform at least the following operations.
+HMS should be capable to recognize already registered patients and user roles.
+- Write necessary queries to register new user roles and personas
+- Write necessary queries to add to the list of diagnosis of the patient tagged by date.
+- Write necessary queries to fetch required details of a particular patient.
+- Write necessary queries to prepare bill for the patient at the end of checkout.
+- Write necessary queries to fetch and show data from various related tables (Joins)
+- Optimize repeated read operations using views/materialized views.
+- Optimize read operations using indexing wherever required. (Create index on at least 1 table)
+- Try optimizing bill generation using stored procedures.
+- Add necessary triggers to indicate when patients medical insurance limit has expired.
+
+#### Question 2
+Write a report on your understanding of Rendering and Design Patterns. Mention and elaborate where a particular Rendering pattern is applicable and is well suited for which use case.
