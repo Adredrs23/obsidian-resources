@@ -11,8 +11,24 @@
             "id": "87df3cb2be7ece38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Spider Wall/Load Balancing and EKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b26b6cb3c6438801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API Gateway and Load Balancer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Spider Wall/Load Balancing and EKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Spider Wall/Load Balancing and EKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Spider Wall/Load Balancing and EKS.md"
+              }
             }
           },
           {
@@ -153,8 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05cd9eb31bfeeef3",
+  "active": "87df3cb2be7ece38",
   "lastOpenFiles": [
+    "API Gateway and Load Balancer.md",
+    "My Spider Wall/Load Balancing and EKS.md",
     "TMPV Discussion.md",
     "Pasted image 20240105132035.png",
     "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
@@ -183,7 +205,6 @@
     "Angular Questions.md",
     "My Spider Wall/Transaction & ACID Properties.md",
     "My Spider Wall/Partitioning vs Sharding.md",
-    "My Spider Wall/Normalization.md",
     "My Spider Wall/images/Amazon Route 53 High level Architecture.png",
     "My Spider Wall/images/NodePort Service Diagram.png",
     "My Spider Wall/images/NodePort Service flow.png",
