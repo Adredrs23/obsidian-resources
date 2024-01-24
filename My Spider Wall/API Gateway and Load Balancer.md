@@ -19,3 +19,6 @@ Depending on your specific use case, you might choose to place the load balancer
     - The API gateway can then route requests to the appropriate backend services or instances, and load balancing can be handled within the API gateway itself or by using other services.
 
 Ultimately, the placement of these components depends on your specific requirements and architecture. In many cases, a combination of both load balancing and API gateway services is used to create a robust and scalable system. It's also worth noting that AWS provides services like Application Load Balancer (ALB) and API Gateway, which offer more advanced features and can be integrated into your architecture based on your needs.
+
+### API Gateway
+![[Pasted image 20240124124639.png]]
