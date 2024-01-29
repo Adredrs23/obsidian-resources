@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b26b6cb3c6438801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Spider Wall/API Gateway and Load Balancer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
