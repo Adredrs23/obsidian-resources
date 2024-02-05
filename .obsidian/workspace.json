@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Spider Wall/Load Balancing and EKS.md",
+                "file": "Angular Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Spider Wall/Load Balancing and EKS.md",
+                "file": "Angular Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Spider Wall/Load Balancing and EKS.md",
+                "file": "Angular Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Spider Wall/Load Balancing and EKS.md"
+                "file": "Angular Questions.md"
               }
             }
           },
@@ -161,10 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05cd9eb31bfeeef3",
+  "active": "87df3cb2be7ece38",
   "lastOpenFiles": [
-    "Pasted image 20240124124639.png",
     "My Spider Wall/Load Balancing and EKS.md",
+    "Pasted image 20240124124639.png",
     "My Spider Wall/API Gateway and Load Balancer.md",
     "TMPV Discussion.md",
     "Pasted image 20240105132035.png",
@@ -200,7 +200,6 @@
     "Excalidraw",
     "My Spider Wall/images/nginx rewrite directive.png",
     "My Spider Wall/images/Pasted image 20230826105640.png",
-    "My Spider Wall/images/Pasted image 20230826105145.png",
     "Excalidraw/Configurator",
     "Configurator/xls/All Configurator Stuff~65184.tmp",
     "Configurator/xls/~$All Configurator Stuff.xlsx",
