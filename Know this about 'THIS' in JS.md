@@ -33,5 +33,5 @@ baz(); // <-- call-site for `baz`
 
 It looks hard to find the call site but it is just remembering some rules.
 #### Default Binding 
-- For standalone function invocations, it applies when everything else fails. Think of this as the default rule.
+- For standalone function invocations, it applies when everything else fails. Think of this as the default rule. 
    
