@@ -11,8 +11,12 @@
             "id": "b70db8f78b666a7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TYV.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TYV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TYV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TYV.md"
+              }
             }
           },
           {
@@ -155,6 +163,7 @@
   },
   "active": "b70db8f78b666a7d",
   "lastOpenFiles": [
+    "TYV.md",
     "Auto Repl.md",
     "Goldman Sachs Interview Plan.md",
     "Know this about 'THIS' in JS.md",
@@ -187,7 +196,6 @@
     "Excalidraw/Drawing 2023-09-24 20.30.39.excalidraw.md",
     "Excalidraw/Drawing 2023-11-02 10.12.46.excalidraw.md",
     "My Spider Wall/images/ClusterIp Diagram.png",
-    "Backlog.md",
     "My Spider Wall/images/Amazon Route 53 High level Architecture.png",
     "My Spider Wall/images/NodePort Service Diagram.png",
     "My Spider Wall/images/NodePort Service flow.png",
