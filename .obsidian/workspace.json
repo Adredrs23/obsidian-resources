@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31e5eb77c564fb3c",
+        "id": "eb48696e0f99c0d4",
         "type": "tabs",
         "children": [
           {
-            "id": "109da8d28af8446e",
+            "id": "b70db8f78b666a7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Know this about 'THIS' in JS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Know this about 'THIS' in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Know this about 'THIS' in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Know this about 'THIS' in JS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,11 +153,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "109da8d28af8446e",
+  "active": "b70db8f78b666a7d",
   "lastOpenFiles": [
+    "Auto Repl.md",
+    "Goldman Sachs Interview Plan.md",
+    "Know this about 'THIS' in JS.md",
     "Pasted image 20240214155643.png",
     "Pasted image 20240214155551.png",
-    "Know this about 'THIS' in JS.md",
     "Beginners/SI Right Interns - Learning Plan for New Joiners.md",
     "Angular Questions.md",
     "My Spider Wall/Load Balancing and EKS.md",
@@ -184,7 +178,6 @@
     "My Spider Wall/Fluentd.md",
     "Case Studies",
     "Pasted image 20231208184734.png",
-    "Auto Repl.md",
     "Auto Replenishment.md",
     "My Spider Wall/Kubernetes.md",
     "My Spider Wall/Docker.md",
@@ -200,7 +193,6 @@
     "My Spider Wall/images/NodePort Service flow.png",
     "My Spider Wall/images/Kubernetes Cluster Diagram.png",
     "Excalidraw",
-    "My Spider Wall/images/nginx rewrite directive.png",
     "Excalidraw/Configurator",
     "Configurator/xls/All Configurator Stuff~65184.tmp",
     "Configurator/xls/~$All Configurator Stuff.xlsx",
