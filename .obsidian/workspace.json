@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4b32220893c4109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Component.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TYV & IHS.md",
+                "file": "Server Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TYV & IHS.md",
+                "file": "Server Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TYV & IHS.md"
+                "file": "Server Component.md"
               }
             }
           },
@@ -161,8 +174,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b70db8f78b666a7d",
+  "active": "b4b32220893c4109",
   "lastOpenFiles": [
+    "Server Component.md",
     "TYV & IHS.md",
     "Auto Repl.md",
     "Goldman Sachs Interview Plan.md",
@@ -194,7 +208,6 @@
     "Code Snippets/DRF vs Non-DRF.md",
     "Excalidraw/Drawing 2023-09-24 20.30.07.excalidraw.md",
     "Excalidraw/Drawing 2023-09-24 20.30.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-02 10.12.46.excalidraw.md",
     "My Spider Wall/images/ClusterIp Diagram.png",
     "My Spider Wall/images/Amazon Route 53 High level Architecture.png",
     "My Spider Wall/images/NodePort Service Diagram.png",
