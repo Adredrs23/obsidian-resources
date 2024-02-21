@@ -28,3 +28,15 @@ Trolley configuration, mapping MES live data received to trolleys on real time b
 ### Impact
 Eliminated manual work of printing dropping sequence from MES compiling data of part families and parts, segregation of data of part family wise. Reduce wastage of papers, Improved visibility of process and reduced rework for sequencing trollies
 Dealing with1000+ papers per day and sequencing 30+ IHS and 7+ JIS part families
+
+
+**Optimizing In-house Sequencing for Leading Automobile Manufacturer**
+
+**Problem:**
+We faced challenges with manual, error-prone sequencing of parts, resulting in extended Turnaround Time (TAT) and inefficiencies across Production Vehicle (PV) assembly lines. The goal was to establish an efficient, paperless, error-free method with organized sequencing, real-time visibility, and comprehensive reporting.
+
+**Solution:**
+We implemented a digitalized system, configuring specialized trolleys and integrating real-time data from the Manufacturing Execution System (MES). By centralizing data and providing visual aids such as part images, we significantly reduced the cognitive load on operators, thereby enhancing overall efficiency, transparency, and accountability within the system.
+
+**Business Impact:**
+Our solution eliminated manual tasks, reduced paper wastage, and enhanced process visibility, resulting in significant efficiency gains. Dealing with over 1000 papers daily and sequencing numerous part families, including 30+ IHS and 7+ JIS part families, our intervention streamlined operations for sustained success.
