@@ -36,7 +36,7 @@ Dealing with1000+ papers per day and sequencing 30+ IHS and 7+ JIS part families
 We faced challenges with manual, error-prone sequencing of parts, resulting in extended Turnaround Time (TAT) and inefficiencies across Production Vehicle (PV) assembly lines. The goal was to establish an efficient, paperless, error-free method with organized sequencing, real-time visibility, and comprehensive reporting.
 
 **Solution:**
-We implemented a digitalized system, configuring specialized trolleys and integrating real-time data from the Manufacturing Execution System (MES). By centralizing data and providing visual aids such as part images, we significantly reduced the cognitive load on operators, thereby enhancing overall efficiency, transparency, and accountability within the system.
+We implemented a digitalized system, configuring specialized trolleys and integrating real-time data from the Manufacturing Execution System (MES). By centralizing data and providing visual aids such as part images, we significantly reduced the cognitive load on operators required to sequence the parts, thereby enhancing overall efficiency, transparency, and accountability within the system.
 
 **Business Impact:**
 Our solution eliminated manual tasks, reduced paper wastage, and enhanced process visibility, resulting in significant efficiency gains. Dealing with over 1000 papers daily and sequencing numerous part families, including 30+ IHS and 7+ JIS part families, our intervention streamlined operations for sustained success.
