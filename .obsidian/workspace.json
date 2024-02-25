@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eb48696e0f99c0d4",
+        "id": "7ba26ef11b499232",
         "type": "tabs",
         "children": [
           {
-            "id": "b70db8f78b666a7d",
+            "id": "62f8732194dba2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TYV & IHS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21e857ab885cc43b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADT Messages.md",
+                "file": "LLMs and Chatbots.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADT Messages.md",
+                "file": "LLMs and Chatbots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADT Messages.md",
+                "file": "LLMs and Chatbots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADT Messages.md"
+                "file": "LLMs and Chatbots.md"
               }
             }
           },
@@ -174,10 +161,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21e857ab885cc43b",
+  "active": "62f8732194dba2cb",
   "lastOpenFiles": [
-    "TYV & IHS.md",
+    "Types of tuning.png",
+    "LLMs and Chatbots.md",
+    "LLMs.png",
     "ADT Messages.md",
+    "TYV & IHS.md",
     "Server Component.md",
     "Auto Repl.md",
     "Goldman Sachs Interview Plan.md",
@@ -206,13 +196,9 @@
     "My Spider Wall/Kubernetes.md",
     "My Spider Wall/Docker.md",
     "My Spider Wall/HTTPS.md",
-    "Code Snippets/DRF vs Non-DRF.md",
-    "Excalidraw/Drawing 2023-09-24 20.30.07.excalidraw.md",
     "My Spider Wall/images/ClusterIp Diagram.png",
     "My Spider Wall/images/Amazon Route 53 High level Architecture.png",
     "My Spider Wall/images/NodePort Service Diagram.png",
-    "My Spider Wall/images/NodePort Service flow.png",
-    "My Spider Wall/images/Kubernetes Cluster Diagram.png",
     "Excalidraw",
     "Excalidraw/Configurator",
     "Configurator/xls/All Configurator Stuff~65184.tmp",
