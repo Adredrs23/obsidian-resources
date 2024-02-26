@@ -33,4 +33,10 @@ Mitigations Strategies
 1. Explainability
 2. Culture and Audits
 3. Accountability - complaint and governance policies
-4. Education - 
+4. Education 
+5. 
+
+### Hallucinations
+What - Sentence Contradiction, prompt Contradiction and Factual Contradiction
+Why - Data quality, Generation Method, Input Context
+Minimize - Clear and specific prompts, Active Mitigation Strategies, Multi Shot Prompting

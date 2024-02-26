@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script for Server Components.md",
+                "file": "LLMs and Chatbots.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script for Server Components.md",
+                "file": "LLMs and Chatbots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script for Server Components.md",
+                "file": "LLMs and Chatbots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script for Server Components.md"
+                "file": "LLMs and Chatbots.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "b65555d3e9fb50cc",
   "lastOpenFiles": [
-    "LLMs and Chatbots.md",
     "Script for Server Components.md",
+    "LLMs and Chatbots.md",
     "Types of tuning.png",
     "LLMs.png",
     "ADT Messages.md",
