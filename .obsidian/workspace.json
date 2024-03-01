@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b65555d3e9fb50cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Script for Server Components.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script for Server Components.md",
+                "file": "LLMs and Chatbots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script for Server Components.md",
+                "file": "LLMs and Chatbots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script for Server Components.md"
+                "file": "LLMs and Chatbots.md"
               }
             }
           },
@@ -174,14 +161,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b65555d3e9fb50cc",
+  "active": "62f8732194dba2cb",
   "lastOpenFiles": [
+    "Script for Server Components.md",
     "Server Component.md",
     "Types of tuning.png",
     "TYV & IHS.md",
     "Know this about 'THIS' in JS.md",
     "LLMs and Chatbots.md",
-    "Script for Server Components.md",
     "LLMs.png",
     "ADT Messages.md",
     "Auto Repl.md",
