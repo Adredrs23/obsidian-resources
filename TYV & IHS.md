@@ -40,3 +40,12 @@ We implemented a digitalized system, configuring specialized trolleys and integr
 
 **Business Impact:**
 Our solution eliminated manual tasks, reduced paper wastage, and enhanced process visibility, resulting in significant efficiency gains. Dealing with over 1000 papers daily and sequencing numerous part families, including 30+ IHS and 7+ JIS part families, our intervention streamlined operations for sustained success.
+
+
+Impact for TYV
+Improved Turn around time for dispatch
+Fuel data visibility
+Location on fingertips
+less manual trips for location retrieving
+Complete visibility of vehicle status in premises (CRTD, SFLT, WTCL)
+
