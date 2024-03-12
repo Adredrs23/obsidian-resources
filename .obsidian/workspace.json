@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TYV & IHS.md",
+                "file": "My Spider Wall/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TYV & IHS.md",
+                "file": "My Spider Wall/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TYV & IHS.md",
+                "file": "My Spider Wall/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TYV & IHS.md"
+                "file": "My Spider Wall/Git.md"
               }
             }
           },
@@ -163,13 +163,13 @@
   },
   "active": "62f8732194dba2cb",
   "lastOpenFiles": [
+    "TYV & IHS.md",
     "ADT Messages.md",
     "Auto Repl.md",
     "LLMs and Chatbots.md",
     "Script for Server Components.md",
     "Server Component.md",
     "Types of tuning.png",
-    "TYV & IHS.md",
     "Know this about 'THIS' in JS.md",
     "LLMs.png",
     "Goldman Sachs Interview Plan.md",
